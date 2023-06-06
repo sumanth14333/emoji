@@ -1,0 +1,103 @@
+body{
+    background-color: bisque;
+}
+.ear{
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 10%;
+    position: relative;
+}
+.lear{
+    height: 300px;
+    width: 150px;
+    background-color: hotpink;
+    border: 2px solid black;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+}
+.rear{
+    height: 300px;
+    width: 150px;
+    background-color: hotpink;
+    border: 2px solid black;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+}
+.face{
+    height: 400px;
+    width: 400px;
+    background-color: hotpink;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    position: absolute;    
+}
+.eyes{
+    display: flex;
+    width: 450px;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 20%;
+    margin-left: -6.5%;
+    position: absolute;
+    
+}
+.leye{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+
+}
+.reye{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+}
+.seye{
+    height: 60px;
+    width: 60px;   
+    background-color: black;
+    margin-top: 20%;
+    margin-left: 20%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.nose{
+    height: 125px;
+    width: 200px;
+    background-color: rgb(249, 2, 2);
+    margin: auto;
+    border-radius: 60px;
+    margin-top: 55%;
+    display: flex;
+}
+.hole{
+
+    height: 60px;
+    width: 60px;   
+    background-color: black;
+    margin-top: 15%;
+    margin-left: 14%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
